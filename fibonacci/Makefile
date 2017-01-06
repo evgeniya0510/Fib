@@ -5,6 +5,4 @@ build:
 
 run:
 	./a.out
-	python3 script.py
-remove:
-	rm *.txt *.out	    
+	    
